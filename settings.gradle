@@ -1,0 +1,2 @@
+rootProject.name = "Room Relationships"
+include ':app'
